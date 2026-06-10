@@ -1,0 +1,20 @@
+{
+  "name": "Voracom Sys",
+  "short_name": "Voracom Sys",
+  "description": "Despacho contable, fiscal y tecnológico.",
+  "icons": [
+    {
+      "src": "assets/brand/voracom_favicon_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/brand/voracom_favicon_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#730D15",
+  "background_color": "#FFFFFF",
+  "display": "standalone"
+}

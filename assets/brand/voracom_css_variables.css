@@ -1,0 +1,18 @@
+:root {
+  --vcs-vino-institucional: #730D15;
+  --vcs-tinto-profundo: #76000A;
+  --vcs-rojo-accion: #BF1120;
+  --vcs-granate: #A6122D;
+  --vcs-rojo-brillante: #D91438;
+  --vcs-negro-carbon: #111820;
+  --vcs-grafito: #2B2F33;
+  --vcs-gris-medio: #707070;
+  --vcs-gris-claro: #E8E8E8;
+  --vcs-blanco: #FFFFFF;
+  --vcs-whatsapp: #25D366;
+  --vcs-radius-card: 18px;
+  --vcs-radius-button: 999px;
+  --vcs-shadow-card: 0 18px 45px rgba(17, 24, 32, 0.16);
+  --vcs-font-title: "Montserrat", "Poppins", Arial, sans-serif;
+  --vcs-font-body: "Lato", "Source Sans 3", Arial, sans-serif;
+}

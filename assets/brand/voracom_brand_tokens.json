@@ -1,0 +1,63 @@
+{
+  "brand": {
+    "name": "Voracom Sys",
+    "slogan": "Tu mejor aliado de negocio",
+    "business_context": "Despacho contable, fiscal y tecnológico; servicios contables, fiscales, nómina, IMSS, REPSE, comercio exterior, auditoría y soluciones CONTPAQi para empresas y Pymes en México.",
+    "personality": [
+      "profesional",
+      "confiable",
+      "claro",
+      "cercano",
+      "estratégico",
+      "tecnológico"
+    ],
+    "tone": "Lenguaje claro, directo, orientado a cumplimiento, prevención de riesgos y toma de decisiones empresariales."
+  },
+  "colors": {
+    "primary": {
+      "vino_institucional": "#730D15",
+      "tinto_profundo": "#76000A",
+      "rojo_accion": "#BF1120"
+    },
+    "secondary": {
+      "granate": "#A6122D",
+      "rojo_brillante": "#D91438",
+      "negro_carbon": "#111820",
+      "grafito": "#2B2F33",
+      "gris_medio": "#707070",
+      "gris_claro": "#E8E8E8",
+      "blanco": "#FFFFFF"
+    },
+    "special_use": {
+      "whatsapp": "#25D366",
+      "contpaqi_badge_blue_reference": "#0075C9"
+    }
+  },
+  "typography": {
+    "headings": "Montserrat ExtraBold/Black o Poppins ExtraBold",
+    "body": "Lato, Source Sans 3, Arial o Aptos",
+    "reports_word": "Arial/Aptos para máxima compatibilidad",
+    "display_social": "Montserrat Black + Roboto Condensed",
+    "legacy_logo_style": "Serif formal para logotipo; no usarla como texto general del documento"
+  },
+  "layout": {
+    "style": "Corporativo moderno: fondo blanco/gris claro, bloques tinto, diagonales, cintillos, tarjetas con borde sutil, iconografía lineal.",
+    "safe_area": "Mantener al menos 1x de espacio alrededor del logo; x equivale a la altura de la letra V del isotipo o al alto de 'Sys'.",
+    "proportion": "60% blanco/gris claro, 25% tinto/rojo, 10% negro/grafito, 5% acentos."
+  },
+  "social_sizes": {
+    "instagram_square": "1080x1080 px",
+    "instagram_vertical": "1080x1350 px",
+    "story_reel": "1080x1920 px",
+    "facebook_linkedIn_horizontal": "1200x628 px",
+    "linkedin_square": "1080x1080 px"
+  },
+  "contacts_recommended": {
+    "whatsapp": "317 102 0185",
+    "email_corporate": "voracomsys@hotmail.com",
+    "email_alternative": "german_1408@hotmail.com",
+    "website": "www.voracomsys.com",
+    "address": "Corona Araiza 138 B, Col. Centro, Autlán de Navarro, Jalisco"
+  },
+  "ai_prompt_rule": "Diseñar con predominio de tinto y blanco, estética profesional de despacho contable, jerarquía clara, CTA visible, iconos simples y sin promesas fiscales absolutas."
+}
